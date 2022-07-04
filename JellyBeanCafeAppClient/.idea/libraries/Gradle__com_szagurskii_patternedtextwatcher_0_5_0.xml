@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.szagurskii:patternedtextwatcher-0.5.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/patternedtextwatcher-0.5.0.aar/31e6c759195a90f52c4bf6e724525b59/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/patternedtextwatcher-0.5.0.aar/31e6c759195a90f52c4bf6e724525b59/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.szagurskii/patternedtextwatcher/0.5.0/31d50b2d0126ce396418a237fd580ea68239d1f3/patternedtextwatcher-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

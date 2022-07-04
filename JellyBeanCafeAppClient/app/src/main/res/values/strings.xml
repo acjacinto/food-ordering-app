@@ -1,0 +1,277 @@
+<resources>
+    <string name="app_name">Jelly Bean Cafe</string>
+
+    <string name="FACEBOOK_APP_ID">1455321634569818</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">086eda73b8df8c7b45767dc8babb2b0f</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nearby_store">Map</string>
+
+    <string name="terms_and_conditions1_1">
+Welcome to the Jelly Bean Café application. Please read these terms and conditions carefully. The following Terms of Use govern your use and access of the Platform (defined below) and the use of the Services. By accessing the Application and/or using the Services, you agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, do not access and/or use this Application or the Services.
+</string>
+
+    <string name="terms_and_conditions1_2">
+Access to and use of password protected and/or secure areas of the Application and/or use of the Services are restricted to Customers with accounts only. You may not obtain or attempt to obtain unauthorized access of this Application and/or Services, or to any other protected information, through any means not intentionally made available by us for your specific use.
+</string>
+
+    <string name="terms_and_conditions1_3">
+If you are below 18 years old: you must obtain consent from your parent(s) or legal guardian(s), their acceptance of these Terms of Use and their agreement to take responsibility for: (i) your actions; (ii) any charges associated with your use of any of the Services or purchase of Products; and (iii) your acceptance and compliance with these Terms of Use. If you do not have consent from your parent(s) or legal guardian(s), you must stop using/accessing this Application and using the Services.
+    </string>
+
+    <string name="terms_and_conditions1_4">
+Your use and access of this application and making a purchase, placing an order or otherwise ordering with delivery are governed by all terms related to these Terms and Conditions as well as the Privacy Policy, and any other rules and policies of the application that Jelly Bean Café Application may publish from time to time.
+    </string>
+
+    <string name="terms_and_conditions1_5">
+Meanwhile, with regard to your purchases and transactions on the App, the Terms and Conditions between you as a buyer and Jelly Bean Café Application will be binding upon you. Therefore, we recommend that you read these Terms and Conditions and all relevant additional terms, conditions and information, including, but not limited to, the Privacy Policy, carefully.
+    </string>
+
+    <string name="terms_and_conditions1_6">
+By accepting these Terms and Conditions through your use or access of the App, you represent that you are (a) a person with full legal capacity and able to form a legally binding contract, or in case you do not have a full legal capacity, that you received a consent from your parents or any other legal representative and therefore you are bound by these Terms and Conditions and (b) permitted to receive any products. If you do not agree to (or cannot comply with) this Section, do not use this Application.
+    </string>
+
+    <string name="terms_and_conditions1_7">
+All billing and registration information provided on the App must be truthful and accurate. Each User shall be solely responsible for the information and content transmitted on the App. Providing untruthful or inaccurate information constitutes a breach of these Terms and Conditions and the User is responsible for all damages caused to Jelly Bean Café Application or to any other User or to any other third party.
+    </string>
+
+    <string name="terms_and_conditions1_8">
+All materials, including images, text, illustrations, designs, icons, photographs, programs and written and other materials that are part of this App (collectively, the "Contents") are intended solely for personal, non-commercial use. You may download or copy the Contents and other downloadable materials displayed on the App for your personal use only. You may not reproduce, publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of or exploit in any way, in whole or in part, any of the Contents, the App. The Contents on this App may be used only as a purchasing resource.
+    </string>
+
+    <string name="terms_and_conditions1_9">
+Any other use, including the reproduction (except as noted above), modification, distribution, transmission, republication, display, or performance, of the Contents on the Site, without prior written permission from Jelly Bean Café Application, is strictly prohibited.
+    </string>
+
+    <string name="terms_and_conditions1_10">
+Jelly Bean Café Application can stop the operation of the App or its part any time, can change the Content of the App or its parts without any prior notice. The App does not have to be available all the time. Jelly Bean Café Application has the right to maintain the App and the User does not have any right for any compensation.
+    </string>
+
+    <string name="terms_and_conditions1_11">
+Jelly Bean Application reserves the right to limit, terminate and deny the right to use or access the App of any User for any reason whatsoever, including, but not limited to, infringing any third partys intellectual property right, breaching these Terms and Conditions, breaching the good manners, defame or affect or may affect the good name of Jelly Bean Application in any means and/or incurring any liability to Jelly Bean Application. Each User hereby also agrees that in no event shall Jelly Bean Application be liable to any User or any third party for any Users inability to use or access the Site.
+    </string>
+
+    <string name="terms_and_conditions1_12">
+In order to make purchases on the Site may require you to open an account (including setting up a Jelly Bean Café Application ID and password). You are entirely responsible for maintaining the confidentiality of the information you hold for your account, including your password, and for any and all activity that occurs under your account as a result of your failing to keep this information secure and confidential.
+    </string>
+
+    <string name="terms_and_conditions1_13">
+You agree to notify Jelly Bean Café Application immediately of any unauthorized use of your account, or any other breach of security. You may be held liable for losses incurred by Jelly Bean Café Application or any other user of or visitor to the App due to someone else using your Jelly Bean Café Application account as a result of your failing to keep your account information secure and confidential.
+    </string>
+
+    <string name="terms_and_conditions1_14">
+You may not use anyone elses Jelly Bean Café Application account at any time without the express permission and consent of the holder of that Jelly Bean Café Application account. Jelly Bean Café Application cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations.
+    </string>
+
+    <string name="terms_and_conditions1_15">
+Each User represents warrants and agrees that (a) such information, whether submitted during the registration process or thereafter throughout the continuation of the use of the App, is true, accurate, current and complete, and (b) you will maintain and promptly amend all information to keep it true, accurate, current and complete.
+    </string>
+
+    <string name="terms_and_conditions1_16">
+Users of this Application may send reviews, comments and other content; and submit suggestions, ideas, comments, questions, or other information, as long as the content is not illegal, obscene, abusive, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties. You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of any content. Jelly Bean Café Application reserves the right (but not the obligation) to remove or edit any content.</string>
+
+    <string name="terms_and_conditions1_17">
+You are fully responsible for all Content added to the App for their compliance with laws, rights and legitimate interests of third parties and the provisions hereof. Jelly Bean Café Application is not responsible for such Content.
+    </string>
+
+    <string name="terms_and_conditions1_18">
+User agrees that all activities that occur under your Jelly Bean Café Application Account will be deemed to have been authorized by you
+    </string>
+
+    <string name="terms_and_conditions1_19">
+By confirming your purchase at the end of the checkout process, you agree to accept and pay for the item(s) purchased. You realize that any delay in the process of delivery payment may constitute a contract breach, and you shall be solely responsible for such breach.
+    </string>
+
+    <string name="terms_and_conditions1_20">
+Each User understands and accepts that the price listed for the product on the Site and/or the price paid for the product includes the commission due to Jelly Bean Café Application. All prices include VAT. (where applicable) at the current valid rate. Jelly Bean Café Application reserves the right to express the price including VAT.
+    </string>
+
+    <string name="terms_and_conditions1_21">
+When you confirm a transaction on the App, you agree to be bound by and pay for that transaction.
+    </string>
+
+    <string name="terms_and_conditions1_22">
+In addition, any order whose amount exceeds certain amount (Php. 500.00) set by Jelly Bean Café Application, Jelly Bean Café Application can request additional identification and evidence of delivery address by phone call or by other means. These security measures are a testament to our willingness to protect customers against potential fraud. Not until the additional identification requirements are fulfill the Jelly Bean Café Application does not have the duty to send the order. Terms of payments to Jelly Bean Café Application are the following:
+    </string>
+
+    <string name="terms_and_conditions1_23">
+Not all payment methods are available for all products that are sold on our Application.
+    </string>
+
+    <string name="terms_and_conditions1_24">
+The payment by cash on delivery are restricted to a certain customers, so this might not be available for customers without Jelly Bean Café membership card.
+    </string>
+
+    <string name="terms_and_conditions1_25">
+The credit card option is available only from an IP address coming from a PH country.
+    </string>
+
+    <string name="terms_and_conditions1_26">
+The payment on delivery can be complete only with cash, cannot be made by check.
+    </string>
+
+    <string name="terms_and_conditions1_27">
+Jelly Bean Café Application will have an additional fee for delivery expenses (Php. 30.00) that will be added to your total product expenses.
+    </string>
+
+    <string name="terms_and_conditions1_28">
+The product will be delivered within General Mariano Alvarez, Cavite area only for the meantime. Jelly Bean Café Application is not responsible for delays of the transportation or for delays due to the not correct address of the User.
+    </string>
+
+    <string-array name="planets_array">// name of the string array
+        <item>Aldiano Olaes (Area F)</item>
+        <item>Poblacion 1 (Area J)</item>
+        <item>Poblacion 2 (Area I)</item>
+        <item>Poblacion 3 (Area I)</item>
+        <item>Poblacion 4 (Area I)</item>
+        <item>Poblacion 5 (Area J)</item>
+        <item>Benjamin Tirona (Area D)</item>
+        <item>Bernardo Pulido (Area H)</item>
+        <item>Epifanio Malia (Area D)</item>
+        <item>Francisco De Castro (Formerly Area B)</item>
+        <item>Francisco Reyes (Formerly Area A)(Metro San Jose)</item>
+        <item>Fiorello Calimag (Area C)</item>
+        <item>Gavino Maderan (Area J)</item>
+        <item>Gregoria De Jesus (Formerly Area A)(Metro San Jose)</item>
+        <item>Inocencio Salud (Area F)</item>
+        <item>Jacinto Lumbreras (Area J)</item>
+        <item>Kapitan Kua (Area F)</item>
+        <item>Koronel Jose P. Elises (Area E)</item>
+        <item>Macario Dacon (Area D)</item>
+        <item>Marcelino Memije (Area H)</item>
+        <item>Nicolasa Virata (Formerly Area A)(Metro San Jose)</item>
+        <item>Pantaleon Granados (Area G)</item>
+        <item>Ramon Cruz Sr. (Area J)</item>
+        <item>San Gabriel (Area K)</item>
+        <item>San Jose (Formerly Area A)(Metro San Jose)</item>
+        <item>Severino De Las Alas (Area J)</item>
+        <item>Tiniente Tiago (Formerly Area A)(Metro San Jose)</item>
+    </string-array>
+
+
+    //USER BIRTHDAYS
+
+    <string-array name="year_array">// name of the string array
+        <item>2005</item>
+        <item>2004</item>
+        <item>2003</item>
+        <item>2002</item>
+        <item>2001</item>
+        <item>2000</item>
+        <item>1999</item>
+        <item>1998</item>
+        <item>1997</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1993</item>
+        <item>1992</item>
+        <item>1991</item>
+        <item>1990</item>
+        <item>1989</item>
+        <item>1988</item>
+        <item>1987</item>
+        <item>1986</item>
+        <item>1985</item>
+        <item>1984</item>
+        <item>1983</item>
+        <item>1982</item>
+        <item>1981</item>
+        <item>1980</item>
+        <item>1979</item>
+        <item>1978</item>
+        <item>1977</item>
+        <item>1976</item>
+        <item>1975</item>
+        <item>1974</item>
+        <item>1973</item>
+        <item>1972</item>
+        <item>1971</item>
+        <item>1970</item>
+        <item>1969</item>
+        <item>1968</item>
+        <item>1967</item>
+        <item>1966</item>
+        <item>1965</item>
+        <item>1964</item>
+        <item>1963</item>
+        <item>1962</item>
+        <item>1961</item>
+        <item>1960</item>
+        <item>1959</item>
+        <item>1958</item>
+        <item>1957</item>
+        <item>1956</item>
+        <item>1955</item>
+        <item>1954</item>
+        <item>1953</item>
+        <item>1952</item>
+        <item>1951</item>
+        <item>1950</item>
+        <item>1949</item>
+        <item>1948</item>
+        <item>1947</item>
+        <item>1946</item>
+        <item>1945</item>
+        <item>1944</item>
+        <item>1943</item>
+        <item>1942</item>
+        <item>1941</item>
+        <item>1940</item>
+    </string-array>
+
+    <string-array name="month_array">// name of the string array
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="day_array">// name of the string array
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+</resources>

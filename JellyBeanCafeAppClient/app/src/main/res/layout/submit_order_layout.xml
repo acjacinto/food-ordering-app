@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/edt_comment"
+        android:hint="Comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdi_user_address"
+            android:text="User Address"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:checked="true"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rdi_other_address"
+            android:text="Other Address"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/edt_other_address"
+        android:hint="Other Address (blk # , lot #)"
+        android:enabled="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Spinner
+        android:id="@+id/spinner_barangay"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"></Spinner>
+
+    <RadioGroup
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rdi_credit_card"
+            android:text="Credit Card"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:checked="true"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:id="@+id/rdi_cod"
+            android:text="Cash on Delivery"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+
+    </RadioGroup>
+
+</LinearLayout>
